@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="E:\AspNet\release\WxServer" deleteExistingFiles="False" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="配置文件1" publishMethod="FileSystem" replaceMatchingFiles="True" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="bin/Service.pdb" publishTime="03/06/2016 22:59:31" />
+    <file relUrl="Handler/WxHandler.ashx" publishTime="03/06/2016 22:46:49" />
+    <file relUrl="lib/log4net.dll" publishTime="03/06/2016 22:51:56" />
+    <file relUrl="bin/Service.dll" publishTime="03/06/2016 22:59:31" />
+    <file relUrl="lib/MySql.Data.dll" publishTime="03/06/2016 22:51:56" />
+    <file relUrl="Web.config" publishTime="03/06/2016 23:19:11" />
+    <file relUrl="lib/Newtonsoft.Json.dll" publishTime="03/06/2016 22:51:56" />
+    <file relUrl="bin/WxServer.pdb" publishTime="03/06/2016 22:59:32" />
+    <file relUrl="bin/WxServer.dll" publishTime="03/06/2016 22:59:32" />
+    <file relUrl="bin/Newtonsoft.Json.dll" publishTime="03/06/2016 22:51:56" />
+  </publishProfile>
+</publishData>

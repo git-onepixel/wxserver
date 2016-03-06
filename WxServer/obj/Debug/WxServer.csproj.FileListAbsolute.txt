@@ -1,0 +1,8 @@
+E:\一像素\技术沉淀\微信分享服务\WxServer\bin\WxServer.dll
+E:\一像素\技术沉淀\微信分享服务\WxServer\bin\WxServer.pdb
+E:\一像素\技术沉淀\微信分享服务\WxServer\bin\Service.dll
+E:\一像素\技术沉淀\微信分享服务\WxServer\bin\Newtonsoft.Json.dll
+E:\一像素\技术沉淀\微信分享服务\WxServer\bin\Service.pdb
+E:\一像素\技术沉淀\微信分享服务\WxServer\obj\Debug\WxServer.csprojResolveAssemblyReference.cache
+E:\一像素\技术沉淀\微信分享服务\WxServer\obj\Debug\WxServer.dll
+E:\一像素\技术沉淀\微信分享服务\WxServer\obj\Debug\WxServer.pdb
