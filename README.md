@@ -1,0 +1,2 @@
+# wxserver
+wx share server
